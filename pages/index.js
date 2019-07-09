@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import Fetch from 'isomorphic-unfetch';
-import { If, Then, Else } from 'react-if';
 import styled, { css } from 'styled-components';
 import { Container, Col, Button, Alert } from 'react-bootstrap';
 import localStorage from 'local-storage-fallback';

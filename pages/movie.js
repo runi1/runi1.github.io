@@ -1,9 +1,5 @@
 import React from 'react';
-import Fetch from "isomorphic-unfetch";
 import  Layout  from "../components/Layout";
-import  Relatedvideos  from "../components/Relatedvideos";
-import Link from 'next/link';
-import axios from 'axios';
 
 /*const Index = (props) => (
     <Layout>
